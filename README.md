@@ -1,5 +1,6 @@
 # PyMetaExtract
 
-### Extract data from figures in scientific papers   
+### This code extracts data from tables and figures in scientific papers to foster reproducibility  
 
-This code reads in a list of images and create txt files containing extracted text, one per image. 
+#### 1) a list of images is read-in 
+#### 2) txt files containing extracted text are created, one per image. 
